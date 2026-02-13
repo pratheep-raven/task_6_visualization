@@ -28,4 +28,4 @@ Retail Sales Dataset (CSV)
 - charts_output.pdf (optional)
 
 ## Author
-Saran V
+pratheep M
